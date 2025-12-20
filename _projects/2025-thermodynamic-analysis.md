@@ -27,7 +27,8 @@ First, the river was diverted into a forebay. Then, it flowed through penstocks 
 
 
 ---
-##Equations
+
+## Equations
 
 $$
 \text{Mass Balance:}\quad \dot{m}_{in} = \dot{m}_{out} = \dot{m}
