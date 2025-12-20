@@ -28,14 +28,12 @@ First, the river was diverted into a forebay. Then, it flowed through penstocks 
 
 ---
 
-## Physical Equations
-
 $$
-\textbf{Mass Balance:} \quad \dot{m}_{in} = \dot{m}_{out} = \dot{m}
+\text{Mass Balance:}\quad \dot{m}_{in} = \dot{m}_{out} = \dot{m}
 $$
 
 $$
-\textbf{Energy Balance:} \quad
+\text{Energy Balance:}\quad
 \dot{E}_{CV} = 0
 = -\dot{W}_{shaft}
 + \dot{m}\left(
@@ -51,18 +49,19 @@ $$
 
 $$
 \dot{W}_{shaft}
-= \left(0.1 \times 1600 \,\text{m}^3/\text{s} \times 1000 \,\text{kg}/\text{m}^3\right)
-(9.81 \,\text{m}/\text{s}^2)
-(54.9 \,\text{m})
-= 86.2 \,\text{MW}
+= \left(0.1 \times 1600\,\mathrm{m}^3/\mathrm{s} \times 1000\,\mathrm{kg}/\mathrm{m}^3\right)
+(9.81\,\mathrm{m}/\mathrm{s}^2)
+(54.9\,\mathrm{m})
+= 86.2\,\mathrm{MW}
 $$
 
 $$
-\textbf{Efficiency}
+\text{Efficiency}
 = \frac{W_{act}}{W_{shaft}}
 = \frac{76.4}{86.2}
 = 88.7\%
 $$
+
 
 ---
 
