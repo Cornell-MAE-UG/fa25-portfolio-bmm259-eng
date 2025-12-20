@@ -21,10 +21,10 @@ image: /assets/images/blueprint.JPG
 
 ## Photos and Schematics
 
-<img src="{{ "/assets/images/thermo/diagram.JPG" | relative_url }}" width="48%" alt="Niagara Falls Power Station Overview">
-<img src="{{ "/assets/images/thermo/blueprint.JPG" | relative_url }}" width="48%" alt="Niagara Falls Turbine Diagram">
-<img src="{{ "/assets/images/thermo/turbines.JPG" | relative_url }}" width="48%" alt="Interior of Power Station">
-<img src="{{ "/assets/images/thermo/news.JPG" | relative_url }}" width="48%" alt="Historical Power Station View">
+<img src="{{ "/assets/images/thermo-1.png" | relative_url }}" width="48%" alt="Niagara Falls Power Station">
+<img src="{{ "/assets/images/thermo-2.png" | relative_url }}" width="48%" alt="Niagara Falls Turbine Diagram">
+<img src="{{ "/assets/images/thermo-3.png" | relative_url }}" width="48%" alt="Interior of Power Station">
+<img src="{{ "/assets/images/thermo-4.png" | relative_url }}" width="48%" alt="Historical Power Station View">
 ---
 
 ## Qualitative Description
@@ -37,10 +37,14 @@ First, the river was diverted into a forebay. Then, it flowed through penstocks 
 ---
 ## System Diagrams
 
-<img src="{{ "/assets/images/thermo/thermo-5.png" | relative_url }}" alt="System Diagram of Niagara Falls Turbines" width="48%" class="center-image">
+Overall diagram of the generation station:
 <br>
-<img src="{{ "/assets/images/thermo/thermo-6.png" | relative_url }}" width="48%" alt="Turbine" class="center-image">
-<img src="{{ "/assets/images/thermo/thermo-7.png" | relative_url }}" width="48%" alt="Flow Path Visualization" class="center-image">
+<img src="{{ "/assets/images/thermo-5.png" | relative_url }}" alt="System Diagram of Niagara Falls Turbines" width="48%" class="center-image">
+<br>
+Schematics for analysis:
+<br>
+<img src="{{ "/assets/images/thermo-6.png" | relative_url }}" width="48%" alt="Turbine" class="center-image">
+<img src="{{ "/assets/images/thermo-7.png" | relative_url }}" width="48%" alt="Flow Path Visualization" class="center-image">
 
 
 ---
