@@ -1,9 +1,9 @@
 ---
 layout: project
-title: Thermodynamic Analysis of a Chainsaw
+title: Thermodynamic Analysis of the Rankine Generating Station
 description: ENGRD 2210 Extra Credit
 technologies: []
-image: /assets/images/profile-pic.jpg
+image: /assets/images/blueprint.png
 ---
 
 placeholder 
