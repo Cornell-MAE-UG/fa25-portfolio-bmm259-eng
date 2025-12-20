@@ -27,6 +27,7 @@ First, the river was diverted into a forebay. Then, it flowed through penstocks 
 
 
 ---
+##Equations
 
 $$
 \text{Mass Balance:}\quad \dot{m}_{in} = \dot{m}_{out} = \dot{m}
@@ -72,5 +73,12 @@ Turbines also have optimal flow ranges where efficiency is highest. Increasing f
 
 ---
 
+## References
 
+http://spiff.rit.edu/classes/phys213/lectures/niagara/niagara.html
 
+http://www.niagarafrontier.com/power.html
+
+https://freaktography.com/canadian-niagara-power-station-and-tailrace-urban-exploring/?srsltid=AfmBOopTgFbLsaM-wVhE0ruC_KnSoa3pnhIuvyfGK-C-TrjtpmlksZo1&v=0b3b97fa6688
+
+https://www.croatianhistory.net/etf/teslan.html
