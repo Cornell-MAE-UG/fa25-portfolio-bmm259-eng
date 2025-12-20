@@ -10,7 +10,7 @@ image: /assets/images/blueprint.JPG
 
 **Isaac Kahn, Bridget McAvoy, Deepti Kousik**  
 **ENGRD 2210**  
-**11/24/2025**
+**12/20/2025**
 
 ---
 
@@ -41,7 +41,7 @@ Overall diagram of the generation station:
 <br>
 <img src="{{ "/assets/images/thermo-5.png" | relative_url }}" alt="System Diagram of Niagara Falls Turbines" width="48%" class="center-image">
 <br>
-Schematics for analysis:
+Schematic for analysis:
 <br>
 <img src="{{ "/assets/images/thermo-7.png" | relative_url }}" width="48%" alt="Flow Path Visualization" class="center-image">
 
