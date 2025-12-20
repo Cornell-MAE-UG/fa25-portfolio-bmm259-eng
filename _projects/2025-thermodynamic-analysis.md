@@ -19,11 +19,28 @@ image: /assets/images/blueprint.JPG
 
 ---
 
+## Photos and Schematics
+
+<img src="{{ "/assets/images/thermo/diagram.JPG" | relative_url }}" width="48%" alt="Niagara Falls Power Station Overview">
+<img src="{{ "/assets/images/thermo/blueprint.JPG" | relative_url }}" width="48%" alt="Niagara Falls Turbine Diagram">
+<img src="{{ "/assets/images/thermo/turbines.JPG" | relative_url }}" width="48%" alt="Interior of Power Station">
+<img src="{{ "/assets/images/thermo/news.JPG" | relative_url }}" width="48%" alt="Historical Power Station View">
+---
+
 ## Qualitative Description
 
 The Rankine Generating Station was built between 1901 and 1905 by the Canadian Niagara Power Company on the Canada side of Niagara Falls. It was named after its founder, William Birch Rankine and did not employ a Rankine Cycle. Instead, it generated hydroelectric power from the gravitational potential energy of the Niagara River before the falls. For 100 years it provided power to the surrounding area before closing in 2005. The closing was due to the generators outputting 25Hz AC current (as opposed to the modern American standard of 60Hz), and the turbine shafts slipping out of alignment. 
 First, the river was diverted into a forebay. Then, it flowed through penstocks (a pipe) into the eleven turbines that made up this generating station. These Francis turbines converted this energy into work. Francis Turbines are radial flow and are optimized for high pressure, low flow rate applications. For our analysis, we assume changes in kinetic energy and enthalpy of the water from the top of the penstock to the outlet of the turbine are negligible. We sourced values from various websites for mass flow rate, change in height, and output power to calculate the efficiency of the Rankine generating station. These turbines had a cumulative power output of 76.4MW, although this dwindled before the station’s closing in 2005. 
 
+
+
+---
+## System Diagrams
+
+<img src="{{ "/assets/images/thermo/thermo-5.png" | relative_url }}" alt="System Diagram of Niagara Falls Turbines" width="48%" class="center-image">
+<br>
+<img src="{{ "/assets/images/thermo/thermo-6.png" | relative_url }}" width="48%" alt="Turbine" class="center-image">
+<img src="{{ "/assets/images/thermo/thermo-7.png" | relative_url }}" width="48%" alt="Flow Path Visualization" class="center-image">
 
 
 ---
