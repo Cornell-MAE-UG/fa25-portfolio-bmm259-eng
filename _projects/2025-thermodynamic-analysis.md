@@ -3,7 +3,7 @@ layout: project
 title: Thermodynamic Analysis of the Rankine Generating Station
 description: ENGRD 2210 Extra Credit
 technologies: []
-image: /assets/images/thermo-1.JPG
+image: /assets/images/thermo-1.png
 ---
 
 # Thermodynamic Analysis of the Rankine Power Station
