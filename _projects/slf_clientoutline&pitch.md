@@ -1,12 +1,10 @@
 ---
 layout: project
-title: Spotted Lanternfly Net Harvest System
+title: Adjustable Netting Post
 description: Client Outline and Pitch
 technologies: 
 image: /assets/images/SLF.png
 ---
-
-Adjustable Netting Post
 
 Team: FABulous engineers who make lanternflies DI
 
