@@ -50,6 +50,9 @@ Questions for the client
     Decision affected: overall design direction
 
 References
-- Leach, Heather & Mariani, Tom & Centinari, Michela & Urban, Julie. (2023). Evaluating integrated pest management tactics for spotted lanternfly management in vineyards. Pest Management Science. 79. 10.1002/ps.7528. 
--https://extension.psu.edu/spotted-lanternfly-management-in-vineyards 
--https://www.facebook.com/Cornell/videos/cornell-research-led-by-gavin-sacks-is-helping-ej-gallo-winery-in-modesto-califo/1700985444195723/
+
+Leach, Heather & Mariani, Tom & Centinari, Michela & Urban, Julie. (2023). Evaluating integrated pest management tactics for spotted lanternfly management in vineyards. Pest Management Science. 79. 10.1002/ps.7528.
+
+https://extension.psu.edu/spotted-lanternfly-management-in-vineyards 
+
+https://www.facebook.com/Cornell/videos/cornell-research-led-by-gavin-sacks-is-helping-ej-gallo-winery-in-modesto-califo/1700985444195723/
