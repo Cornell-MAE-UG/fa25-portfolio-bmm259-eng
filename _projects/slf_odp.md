@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Adjustable Netting Post
-description: Telescoping trellis post for efficient spotted lanternfly management during vineyard harvest
+description: Telescoping trellis post for efficient insect netting management during vineyard harvest
 technologies: 
 image: /assets/images/SLF.png
 ---
@@ -86,17 +86,17 @@ The functional prototype tests the core telescoping mechanism of the Adjustable 
 
 ### Moving Components Sketches
 
-![Moving Components Sketch](/assets/images/Moving%20Components%20Sketch.png)
+<img src="{{ "/assets/images/Moving Components Sketch.png" | relative_url }}" width="100%" alt="Moving Components Sketch">
 
 ### Initial CAD
 
 **Extended and locked into place:**
 
-![Extended and Locked](/assets/images/Extended%20and%20Locked.png)
+<img src="{{ "/assets/images/Extended and Locked.png" | relative_url }}" width="80%" alt="Extended and Locked CAD">
 
 **Unextended:**
 
-![Unextended](/assets/images/Unextended.png)
+<img src="{{ "/assets/images/Unextended.png" | relative_url }}" width="80%" alt="Unextended CAD">
 
 ### Assembly Documentation
 
@@ -104,39 +104,37 @@ The functional prototype tests the core telescoping mechanism of the Adjustable 
 
 Install the pulley pin and pulley wheel/body onto the top of the outer tube.
 
-![Assembly Step 1 — Pulley installation](/assets/images/Assembly%201a.png)
+<img src="{{ "/assets/images/Assembly 1a.png" | relative_url }}" width="80%" alt="Assembly Step 1 — Pulley installation">
 
 **Step 2: Slide inner tube into base tube**
 
 Align the inner tube handle slot with the outer tube pin channel.
 
-![Outer Tube — Pin channel shown](/assets/images/Assembly%202a%201.png)
+<img src="{{ "/assets/images/Assembly 2a 1.png" | relative_url }}" width="80%" alt="Outer Tube — Pin channel shown">
 
-![Inner Tube — Handle slot shown](/assets/images/Assembly%202a%202.png)
+<img src="{{ "/assets/images/Assembly 2a 2.png" | relative_url }}" width="80%" alt="Inner Tube — Handle slot shown">
 
 **Step 3: Insert pin handle through the outer tube into the inner tube**
 
 The thick section sits inside the inner tube while the thin handle section protrudes through the slot.
 
-![Pin Handle](/assets/images/Assembly%203a%20-%20Pin%20Handle.png)
+<img src="{{ "/assets/images/Assembly 3a - Pin Handle.png" | relative_url }}" width="48%" alt="Pin Handle">
+<img src="{{ "/assets/images/Assembly 3a - Pin Handle Slot.png" | relative_url }}" width="48%" alt="Pin Handle Slot">
 
-![Pin Handle Slot](/assets/images/Assembly%203a%20-%20Pin%20Handle%20Slot.png)
-
-![End result](/assets/images/Assembly%203b.png)
+<img src="{{ "/assets/images/Assembly 3b.png" | relative_url }}" width="80%" alt="Pin handle inserted — end result">
 
 **Step 4: Tie rope around pin handle, run through mounted pulley**
 
 Thread the nylon rope from the handle up and over the pulley at the top of the outer tube.
 
-![Rope and pulley setup](/assets/images/Assembly%204a.png)
-
-![Pulley close-up with rope threaded](/assets/images/Assembly%204b.png)
+<img src="{{ "/assets/images/Assembly 4a.png" | relative_url }}" width="48%" alt="Rope and pulley setup">
+<img src="{{ "/assets/images/Assembly 4b.png" | relative_url }}" width="48%" alt="Pulley close-up with rope threaded">
 
 **Step 5: Check that the pole can extend**
 
 Verify smooth extension by pulling the rope or pushing the handle upward.
 
-![Pole extended](/assets/images/Assembly%205a.png)
+<img src="{{ "/assets/images/Assembly 5a.png" | relative_url }}" width="60%" alt="Pole extended">
 
 ### Test Documentation
 
