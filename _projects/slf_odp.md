@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Adjustable Netting Post
-description: Telescoping trellis post for efficient insect netting management during vineyard harvest
+description: Telescoping trellis post for efficient spotted lanternfly management during vineyard harvest
 technologies: 
 image: /assets/images/SLF.png
 ---
@@ -86,19 +86,57 @@ The functional prototype tests the core telescoping mechanism of the Adjustable 
 
 ### Moving Components Sketches
 
-Hand-drawn sketches detail the base tube dimensions (77″ long, 4″ OD, 3.88″ ID) with a pin channel running along its length, and the inner tube dimensions (77″ long, 3.18″ OD) with a pin handle slot. The side view shows how the pin handle inserts through both tubes.
+![Moving Components Sketch](/assets/images/Moving%20Components%20Sketch.png)
 
 ### Initial CAD
 
-CAD renderings show the prototype in two states: **extended and locked into place** (inner tube fully raised, handle locked in J-slot) and **unextended** (inner tube retracted, compact configuration with the pulley visible at the top).
+**Extended and locked into place:**
+
+![Extended and Locked](/assets/images/Extended%20and%20Locked.png)
+
+**Unextended:**
+
+![Unextended](/assets/images/Unextended.png)
 
 ### Assembly Documentation
 
-1. **Attach pulley body/wheel to top of base tube** — Install the pulley pin and pulley wheel/body onto the top of the outer tube.
-2. **Slide inner tube into base tube** — Align the inner tube handle slot with the outer tube pin channel.
-3. **Insert pin handle** — Push the pin handle through the outer tube and into the inner tube. The thick section sits inside the inner tube while the thin handle section protrudes through the slot.
-4. **Tie rope around pin handle and run through mounted pulley** — Thread the nylon rope from the handle up and over the pulley at the top of the outer tube.
-5. **Check that the pole can extend** — Verify smooth extension by pulling the rope or pushing the handle upward.
+**Step 1: Attach pulley body/wheel to top of base tube**
+
+Install the pulley pin and pulley wheel/body onto the top of the outer tube.
+
+![Assembly Step 1 — Pulley installation](/assets/images/Assembly%201a.png)
+
+**Step 2: Slide inner tube into base tube**
+
+Align the inner tube handle slot with the outer tube pin channel.
+
+![Outer Tube — Pin channel shown](/assets/images/Assembly%202a%201.png)
+
+![Inner Tube — Handle slot shown](/assets/images/Assembly%202a%202.png)
+
+**Step 3: Insert pin handle through the outer tube into the inner tube**
+
+The thick section sits inside the inner tube while the thin handle section protrudes through the slot.
+
+![Pin Handle](/assets/images/Assembly%203a%20-%20Pin%20Handle.png)
+
+![Pin Handle Slot](/assets/images/Assembly%203a%20-%20Pin%20Handle%20Slot.png)
+
+![End result](/assets/images/Assembly%203b.png)
+
+**Step 4: Tie rope around pin handle, run through mounted pulley**
+
+Thread the nylon rope from the handle up and over the pulley at the top of the outer tube.
+
+![Rope and pulley setup](/assets/images/Assembly%204a.png)
+
+![Pulley close-up with rope threaded](/assets/images/Assembly%204b.png)
+
+**Step 5: Check that the pole can extend**
+
+Verify smooth extension by pulling the rope or pushing the handle upward.
+
+![Pole extended](/assets/images/Assembly%205a.png)
 
 ### Test Documentation
 
