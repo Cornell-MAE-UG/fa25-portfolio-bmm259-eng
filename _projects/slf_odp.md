@@ -213,22 +213,7 @@ Our mechanism is designed to save manual labor and time, so it is imperative tha
 
 <div style="display: flex; gap: 2rem; align-items: flex-start;">
 <div style="flex: 1;">
-
-| Component | Cost |
-|-----------|------|
-| Outer PVC pipe | $48.10 |
-| Inner PVC pipe | $30.34 |
-| Top PVC pipe | $38.22 |
-| Lifting Rope | $13.70 |
-| Dowel pin | $0.43 |
-| Rope cleat | $3.14 |
-| 2×4 plank | $5.16 |
-| Base connector *(3D printed)* | $5.00 |
-| Top T-connector *(3D printed)* | $1.00 |
-| Top cap *(3D printed)* | $1.62 |
-| Inner tube slider *(3D printed)* | $2.14 |
-| **Total** | **$148.85** |
-
+<img src="{{ "/assets/images/table.png" | relative_url }}" width="100%" alt="Bill of materials table">
 </div>
 <div style="flex: 1;">
 <img src="{{ "/assets/images/pole.png" | relative_url }}" width="100%" alt="Pole assembly diagram">
